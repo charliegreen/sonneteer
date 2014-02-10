@@ -21,4 +21,4 @@ Here is its first sonnet:
 >EFFECTING NESTS BESIEGED INEBRIATE  
 >SEVIGNY THOMAN TWINED UNEARNED THS DE TAITT  
 
-Its beauty and insight are undeniable.
+Though its beauty and insight are undeniable, it ought to be known that I am working on making the sonnets come out in an at least slightly legible fashion.
