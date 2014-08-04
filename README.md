@@ -1,6 +1,8 @@
 sonneteer
 =========
 
+<b><i>Note: see my new project [poeteer](http://github.com/charliegreen/poeteer) for a faster, more generalized, and overall better version of sonneteer</i></b>
+
 An automatic sonnet generator! It uses the [CMU pronouncing dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict?in=C+M+U+Dictionary&stress=-s) to assemble 14 lines of strict iambic pentameter with the rhyme scheme ABABCDCDEFEFGG, in compliance with the classic Shakespearean sonnet.
 
 Note that this is done rather naively at the moment; it routinely takes many minutes to create one sonnet.
